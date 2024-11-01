@@ -13,7 +13,7 @@ This system provides a natural language interface for querying SAP HANA database
 
 ## Core Components
 
-### 1. TableRelationshipManager
+### 1. Table Relationship Manager
 - Manages database table metadata and relationships
 - Key functionalities:
   - Discovers and tracks common columns between tables
