@@ -3,6 +3,10 @@
 ## Overview
 This system provides a natural language interface for querying SAP HANA databases. It allows users to ask questions in plain English and receives both SQL queries and summarized results. The system uses Azure OpenAI's GPT-4 model to translate natural language questions into SQL queries and summarize the results.
 
+## Architecture 
+<img width="706" alt="Screenshot 2024-10-31 at 9 40 17 PM" src="https://github.com/user-attachments/assets/35ac3384-e20e-4c26-bdda-ac953e2f09a5">
+
+
 ## Key Features
 - Natural language to SQL query conversion
 - Automatic handling of SAP HANA's DATS date format
